@@ -12,7 +12,7 @@
 		<jdk.version>1.8</jdk.version>
 		<spring.version>[4.3.18,)</spring.version> <!-- could this upgrade to 5.0.2? -->
 		<jstl.version>1.2</jstl.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<dependencies>
